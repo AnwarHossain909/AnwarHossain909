@@ -3,6 +3,8 @@
 
 **AnwarHossain909/AnwarHossain909** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+<a href="https://github.com/AnwarHossain909/AnwarHossain909"><img align="right" width="380px" height="320px" src="./home_backend.gif" style="border-radius: 10px;"></a>
+
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
