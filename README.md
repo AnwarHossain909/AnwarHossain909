@@ -1,7 +1,6 @@
 
 
 
-**AnwarHossain909/AnwarHossain909** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 <a href="https://github.com/AnwarHossain909/AnwarHossain909"><img align="right" width="380px" height="320px" src="./home_backend.gif" style="border-radius: 10px;"></a>
 
@@ -32,9 +31,7 @@
 ## 📊 GitHub Activity Graph
 [![Anwar's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=AnwarHossain909&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
----
 
-## 🐍 Contribution Snake
-![snake gif](https://github.com/AnwarHossain909/AnwarHossain909/blob/output/github-contribution-grid-snake.svg)
+
 
 
