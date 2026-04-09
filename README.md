@@ -28,8 +28,7 @@
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AnwarHossain909&theme=radical)
 
 
-## 📊 GitHub Activity Graph
-[![Anwar's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=AnwarHossain909&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 
 
 
