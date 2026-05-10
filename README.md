@@ -1,9 +1,10 @@
                                   “Don’t judge a book by its cover”
+                                        This is Anwar Hossain.
 
 
 <!-- <a href="https://github.com/AnwarHossain909/AnwarHossain909"><img align="right" width="380px" height="320px" src="./home_backend.gif" style="border-radius: 10px;"></a> -->
 
-              ### Hi there, This is Anwar Hossain 👋
+---          
 🔭 Currently I'm working at Bdcalling IT LTD as a Odoo Developer
 🔭 Currently building **REST APIs** & lightweight odoo custom module
 🌱 Exploring **Advanced Python**, **Web Scraping**, and **AI basics**, **Odoo OWL**,**Server Maintainance**
@@ -20,7 +21,7 @@
 
 
                                             ### 🔥 GitHub Streak:
-                          ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AnwarHossain909&theme=radical)
+  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AnwarHossain909&theme=radical)
 
 
 
