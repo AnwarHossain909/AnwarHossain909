@@ -1,19 +1,16 @@
                                   “Don’t judge a book by its cover”
 
-file:///home/anwar/Downloads/anwar_hossain_portfolio.html
 
 <a href="https://github.com/AnwarHossain909/AnwarHossain909"><img align="right" width="380px" height="320px" src="./home_backend.gif" style="border-radius: 10px;"></a>
 
 ### Hi there, This is Anwar Hossain 👋
-
-🔭 Currently building **Django REST APIs** & lightweight web tools  
-🌱 Exploring **Advanced Python**, **Web Scraping**, and **AI basics**  
-👯 Open to collaborate on **backend projects** & open-source Django tools  
+🔭 Currently I'm working at Bdcalling IT LTD as a Odoo Developer
+🔭 Currently building **REST APIs** & lightweight odoo custom module
+🌱 Exploring **Advanced Python**, **Web Scraping**, and **AI basics**, **Odoo OWL**,**Server Maintainance**
+👯 Open to collaborate on **backend projects** & open-source Django tools and also odoo tools 
 🤔 Looking for guidance on real-world **internships** & system design  
-💬 Ask me about **Python, Django, web scraping (BeautifulSoup/requests)**  
-📫 Reach me at: [github.com/AnwarHossain909](https://github.com/AnwarHossain909)  
-😄 Pronouns: **He/Him**  
-⚡ Fun fact: My cat *chitty* 🐱 loves to “help” by sitting on my keyboard!  
+💬 Ask me about **Python, Django, web scraping (BeautifulSoup/requests)**, odoo, ai automation etc... 
+📫 Reach me at: https://anwarhossain909.github.io/AnwarHossain919/#contact  
 
 ---
 
