@@ -1,8 +1,6 @@
                                             “Don’t judge a book by its cover”
-                                                  This is Anwar Hossain.
+                                                
 
-
-<!-- <a href="https://github.com/AnwarHossain909/AnwarHossain909"><img align="right" width="380px" height="320px" src="./home_backend.gif" style="border-radius: 10px;"></a> -->
 
  
 <div align="center">
@@ -47,13 +45,13 @@
 
 ---
 
-### 📊 GitHub Stats
 
-<div align="center">
+
+<!-- <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=AnwarHossain909&show_icons=true&theme=radical&hide_border=true&count_private=true" height="165"/>
   &nbsp;
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnwarHossain909&layout=compact&theme=radical&hide_border=true" height="165"/>
-</div>
+</div> -->
 
 ---
 
