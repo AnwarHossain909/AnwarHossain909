@@ -11,7 +11,7 @@
 👯 Open to collaborate on **backend projects** & open-source Django tools and also odoo tools 
 🤔 Looking for guidance on real-world **internships** & system design  
 💬 Ask me about **Python, Django, web scraping (BeautifulSoup/requests)**, odoo, ai automation etc... 
-📫 Reach me at: https://anwarhossain909.github.io/AnwarHossain919/#contact  
+📫 Reach me at: https://anwarhossain909.github.io/AnwarHossain919
 
 
 
@@ -20,7 +20,7 @@
 
 
 
-                                            ### 🔥 GitHub Streak:
+                                  🔥 GitHub Streak:
   ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AnwarHossain909&theme=radical)
 
 
