@@ -11,7 +11,7 @@
 
 ### 👨‍💻 About Me
 
-- 💼 Working at **[Bdcalling IT Ltd](https://bdcalling.com/)** as an **Odoo Developer**
+- 💼 Working at **[ZenCore Solutions Limited](https://zencoreltd.com/)** as an **Odoo Developer**
 - 🔭 Currently building **REST APIs** & custom **Odoo modules**
 - 🌱 Exploring **Advanced Python**, **Web Scraping**, **AI Automation**, **Odoo OWL**, and **Server Maintenance**
 - 👯 Open to collaborate on **backend projects**, open-source **Django** & **Odoo** tools
