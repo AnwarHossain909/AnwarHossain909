@@ -18,14 +18,14 @@
 - ⚡ Fun fact: My cat *Chitty* 🐱 loves to "help" by sitting on my keyboard!
 
 
-
+###🛠️ Tech Stack
 <div align="center">
 <hr>
 
 
 
 <h4>💻 Languages & Frameworks</h4>
-<h3>🛠️ Tech Stack</h3>
+
 
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
