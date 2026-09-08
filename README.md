@@ -3,7 +3,9 @@
 
 
 <div align="center">
+**“Don’t judge a book by its cover”**
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00D9FF&center=true&width=1000&lines=Hi%2C+I'm+Anwar+Hossain+%F0%9F%91%8B;Software+Engineer;Odoo+ERP+%26+Python+Backend;%26+Competitive+Programmer" alt="Typing SVG" />
+</div>
 </div>
 ---
 
