@@ -18,12 +18,12 @@
 - ⚡ Fun fact: My cat *Chitty* 🐱 loves to "help" by sitting on my keyboard!
 
 
-
+<h3>🛠️ Tech Stack</h3>
 <div align="center">
 
 <hr>
 
-<h3>🛠️ Tech Stack</h3>
+
 
 <h4>💻 Languages & Frameworks</h4>
 
