@@ -17,11 +17,14 @@
 - 😄 Pronouns: **He/Him**
 - ⚡ Fun fact: My cat *Chitty* 🐱 loves to "help" by sitting on my keyboard!
 
----
+<div align="center">
 
-### 🛠️ Tech Stack
+<hr>
 
-#### 💻 Languages & Frameworks
+<h3>🛠️ Tech Stack</h3>
+
+<h4>💻 Languages & Frameworks</h4>
+
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![Odoo](https://img.shields.io/badge/Odoo-714B67?style=for-the-badge&logo=odoo&logoColor=white)
@@ -31,7 +34,8 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 
-#### 🗄️ Databases & Tools
+<h4>🗄️ Databases & Tools</h4>
+
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -40,8 +44,9 @@
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
 
----
+<hr>
 
+</div>
 
 
 <!-- <div align="center">
