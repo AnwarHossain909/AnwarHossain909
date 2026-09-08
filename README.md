@@ -3,7 +3,7 @@
 
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=6A5ACD&center=true&vWidth=700&lines=Odoo+Developer;Competitive+Programmer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=6A5ACD&center=true&vWidth=700&lines=Hi%2C+I'm+Anwar+Hossain+%F0%9F%91%8B;Odoo+Developer;Competitive+Programmer" alt="Typing SVG" />
 </div>
 ---
 
