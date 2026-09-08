@@ -51,11 +51,11 @@
 
 </div>
 
-<div align="center">
+<!-- <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=AnwarHossain909&show_icons=true&theme=radical&hide_border=true&count_private=true" height="165"/>
   &nbsp;
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnwarHossain909&layout=compact&theme=radical&hide_border=true" height="165"/>
-</div> 
+</div>  -->
 
 ---
 
