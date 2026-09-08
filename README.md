@@ -18,9 +18,9 @@
 - ⚡ Fun fact: My cat *Chitty* 🐱 loves to "help" by sitting on my keyboard!
 
 
-<h3>🛠️ Tech Stack</h3>
-<div align="center">
 
+<div align="center">
+<h3>🛠️ Tech Stack</h3>
 <hr>
 
 
