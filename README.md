@@ -19,6 +19,14 @@
 
 <div align="center">
 
+### 📈 GitHub Activity
+
+<img src="YOUR_ACTIVITY_GRAPH_URL" />
+
+</div>
+
+<div align="center">
+
 <hr>
 
 <h3>🛠️ Tech Stack</h3>
