@@ -1,4 +1,136 @@
-                           
+class AnwarHossain:
+
+    def __init__(self):
+        self.name = "Anwar Hossain"
+        self.username = "AnwarHossain909"
+        self.role = "Software Engineer"
+        self.focus = "Odoo ERP & Python Backend Development"
+        self.location = "Dhaka, Bangladesh 🇧🇩"
+        self.organization = "Zencore Solutions Limited"
+
+        self.professional_summary = (
+            "Software Engineer specializing in Odoo ERP and Python backend "
+            "development, with experience in building scalable business "
+            "applications, automating workflows, and integrating REST APIs."
+        )
+
+        self.specializations = [
+            "Odoo ERP Development & Customization",
+            "Python Backend Development",
+            "Business Process Automation",
+            "REST API Development & Integration",
+            "Database Design & Optimization"
+        ]
+
+        self.technical_skills = {
+            "Languages": [
+                "Python",
+                "JavaScript",
+                "TypeScript",
+                "SQL"
+            ],
+            "ERP & Backend": [
+                "Odoo",
+                "Django",
+                "Django REST Framework"
+            ],
+            "Frontend": [
+                "React",
+                "Next.js",
+                "HTML5",
+                "CSS3",
+                "Bootstrap"
+            ],
+            "Databases": [
+                "PostgreSQL",
+                "MySQL"
+            ],
+            "Tools & Platforms": [
+                "Git",
+                "GitHub",
+                "Linux",
+                "Docker",
+                "VS Code"
+            ]
+        }
+
+        self.experience = [
+            {
+                "role": "Senior Executive | Python & Odoo Developer",
+                "company": "Zencore Solutions Limited",
+                "status": "Present"
+            },
+            {
+                "role": "Odoo Developer",
+                "company": "Zencore Solutions Limited"
+            },
+            {
+                "role": "Python Developer",
+                "company": "AppExit"
+            }
+        ]
+
+        self.core_competencies = [
+            "Custom Odoo Module Development",
+            "ERP Workflow Implementation",
+            "Backend System Architecture",
+            "Third-Party API Integration",
+            "Database Management",
+            "Debugging & Performance Optimization"
+        ]
+
+        self.currently_learning = [
+            "Advanced Odoo Architecture",
+            "Scalable Backend Systems",
+            "Cloud Deployment",
+            "DevOps & CI/CD",
+            "Application Security"
+        ]
+
+        self.interests = [
+            "Enterprise Resource Planning",
+            "Backend Engineering",
+            "Business Workflow Automation",
+            "Cloud-Native Applications",
+            "Open-Source Development"
+        ]
+
+        self.open_to = [
+            "Odoo ERP Projects",
+            "Python Backend Opportunities",
+            "API Integration Projects",
+            "Open-Source Collaboration"
+        ]
+
+    def mission(self):
+        return (
+            "Design and build secure, scalable, and maintainable ERP "
+            "and backend solutions that transform complex business "
+            "processes into efficient digital workflows."
+        )
+
+    def current_focus(self):
+        return [
+            "Developing enterprise-grade Odoo solutions",
+            "Building scalable Python backend services",
+            "Automating complex business workflows",
+            "Improving application security and performance"
+        ]
+
+    def contact(self):
+        return {
+            "GitHub": f"https://github.com/{self.username}",
+            "Location": self.location,
+            "Available for Collaboration": True
+        }
+
+
+me = AnwarHossain()
+
+print(me.professional_summary)
+print(me.mission())
+print(me.current_focus())
+print(me.contact())                           
                                                 
 
 
