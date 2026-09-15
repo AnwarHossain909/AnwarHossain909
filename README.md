@@ -65,17 +65,17 @@ me = AnwarHossain()
                                                 
 
 
-### 👨‍💻 About Me
+## 👨‍💻 About Me
 
-- 💼 Working at **[ZenCore Solutions Limited](https://zencoreltd.com/)** as an **Odoo Developer**
-- 🔭 Currently building **REST APIs** & custom **Odoo modules**
-- 🌱 Exploring **Advanced Python**, **Web Scraping**, **AI Automation**, **Odoo OWL**, and **Server Maintenance**
-- 👯 Open to collaborate on **backend projects**, open-source **Django** & **Odoo** tools
-- 💬 Ask me about **Python · Django · Odoo · Web Scraping · AI Automation**
-- 📫 Portfolio: [anwarhossain909.github.io](https://anwarhossain909.github.io/AnwarHossain919)
-- 😄 Pronouns: **He/Him**
-- ⚡ Fun fact: My cat *Chitty* 🐱 loves to "help" by sitting on my keyboard!
-
+- 💼 **Currently working at [Zencore Solutions Limited](https://zencoreltd.com/) as a Software Engineer — Odoo ERP & Python Backend**
+- 🚀 **Building custom Odoo modules, scalable REST APIs, ERP integrations, and automated business workflows**
+- 🌱 **Currently advancing my knowledge in Python, Odoo OWL, AI Automation, Web Scraping, DevOps, and Server Administration**
+- 🤝 **Open to collaborating on Odoo ERP, Python backend, Django, API integration, and open-source projects**
+- 💬 **Feel free to ask me about Python, Django, Odoo, REST APIs, Web Scraping, and AI Automation**
+- 🌐 **Portfolio:** [anwarhossain909.github.io/AnwarHossain919](https://anwarhossain909.github.io/AnwarHossain919)
+- 📍 **Based in Dhaka, Bangladesh 🇧🇩**
+- 😄 **Pronouns: He/Him**
+- ⚡ **Beyond coding:** My cat, *Chitty* 🐱, is my unofficial debugging assistant—usually by sitting on my keyboard!
 
 
 
