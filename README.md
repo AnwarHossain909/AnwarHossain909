@@ -8,56 +8,28 @@
 
 ```python
 class AnwarHossain:
-
     def __init__(self):
         self.name = "Anwar Hossain"
         self.username = "AnwarHossain909"
         self.role = "Software Engineer"
-        self.focus = "Odoo ERP & Python Backend Development"
+        self.company = "Zencore Solutions Limited"
         self.location = "Dhaka, Bangladesh 🇧🇩"
-        self.organization = "Zencore Solutions Limited"
 
-        self.specializations = [
-            "Odoo ERP Development & Customization",
-            "Python Backend Development",
-            "Business Process Automation",
-            "REST API Development & Integration"
+        self.expertise = [
+            "Odoo ERP Development",
+            "Python Backend Engineering",
+            "REST API Integration",
+            "Business Process Automation"
         ]
 
-        self.technologies = {
-            "Languages": ["Python", "JavaScript", "TypeScript", "SQL"],
-            "Backend": ["Odoo", "Django", "Django REST Framework"],
-            "Frontend": ["React", "Next.js", "HTML5", "CSS3"],
-            "Databases": ["PostgreSQL", "MySQL"],
-            "Tools": ["Git", "GitHub", "Linux", "Docker"]
-        }
-
-        self.currently_learning = [
-            "Advanced Odoo Architecture",
-            "Scalable Backend Systems",
-            "Cloud Deployment",
-            "DevOps & CI/CD"
-        ]
-
-        self.interests = [
-            "Enterprise Resource Planning",
-            "Backend Engineering",
-            "Business Workflow Automation",
-            "Open-Source Development"
-        ]
-
-        self.open_to = [
-            "Odoo ERP Projects",
-            "Python Backend Opportunities",
-            "API Integration Projects",
-            "Open-Source Collaboration"
+        self.tech_stack = [
+            "Python", "Odoo", "Django", "PostgreSQL",
+            "JavaScript", "TypeScript", "React",
+            "Docker", "Linux", "Git"
         ]
 
     def mission(self):
-        return (
-            "Build secure, scalable, and maintainable ERP and backend "
-            "solutions that simplify complex business processes."
-        )
+        return "Building scalable ERP and backend solutions."
 
 
 me = AnwarHossain()
